@@ -3,7 +3,7 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 
-key = "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"
+key = "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"
 openai.api_key = key
 
 #creating a widget which can allow the users to change the temperature aspect of the model.
